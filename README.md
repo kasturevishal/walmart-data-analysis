@@ -1,4 +1,3 @@
-# walmart-data-analysis
 # Walmart-Sales-Analysis-
 
 ## Project Overview
